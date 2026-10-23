@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Recruiter Assistant Using a Multi-Agent System
 
 An academic, production-grade Multi-Agent System designed for On-the-Job Training (OJT) and Coursera academic submissions. It coordinates three specialized AI agents to analyze job descriptions, verify resume evidence, highlight requirements needing clarification, and generate five targeted interview questions.
@@ -132,3 +133,6 @@ Open your browser at `http://localhost:8501`.
 - **Live Demo Video (Google Drive):** `[INSERT_GOOGLE_DRIVE_VIDEO_LINK_HERE]`
 - **GitHub Repository:** `[INSERT_GITHUB_REPO_URL_HERE]`
 - **Live Deployment URL (Streamlit Cloud):** `[INSERT_STREAMLIT_APP_URL_HERE]`
+=======
+# multi-agent
+>>>>>>> 92450bd8ac3874b2808d64e51497ae0f89d836ee

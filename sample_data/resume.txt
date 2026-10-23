@@ -1,0 +1,30 @@
+Alex Morgan
+Email: alex.morgan.dev@example.com | Phone: +1 (555) 019-2831
+GitHub: github.com/alexmorgan-dev | LinkedIn: linkedin.com/in/alexmorgan-synthetic
+
+PROFESSIONAL SUMMARY
+Backend Software Engineer with over 4 years of experience building scalable web services, RESTful APIs, and distributed data systems in Python. Passionate about automated testing, microservice containerization, and modular API design.
+
+TECHNICAL SKILLS
+- Languages: Python, JavaScript, SQL, Bash
+- Frameworks & Libraries: FastAPI, Flask, Pytest, SQLAlchemy, Pydantic
+- Databases & Caching: PostgreSQL, MySQL, Redis
+- Tools & Cloud: Docker, Git, Linux, AWS (S3, EC2), Postman
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer | NovaTech Innovations (2022 - Present)
+- Architected and deployed 12+ RESTful microservices in Python and FastAPI serving over 1.5 million requests daily.
+- Implemented comprehensive automated test suites using Pytest, boosting code test coverage from 62% to 91%.
+- Optimized complex PostgreSQL database queries and added Redis caching layers, reducing p99 API response latencies by 38%.
+- Containerized development and staging environments using Docker, ensuring consistent dependency parity across teams.
+- Collaborated in weekly Agile sprints with frontend developers and product owners to deliver key features on schedule.
+
+Junior Backend Developer | Apex Data Labs (2020 - 2022)
+- Built internal data processing scripts in Python and Flask to automate nightly ingestion of transactional data.
+- Maintained relational schemas in MySQL and authored optimized stored procedures and migration scripts.
+- Used Git and GitHub pull requests for peer reviews and team collaboration.
+
+EDUCATION
+Bachelor of Science in Computer Science
+State Technological University (Graduated 2020)

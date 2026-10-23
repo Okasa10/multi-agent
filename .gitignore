@@ -1,0 +1,22 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment files with sensitive credentials
+.env
+.env.local
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit session/config files
+.streamlit/secrets.toml
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp

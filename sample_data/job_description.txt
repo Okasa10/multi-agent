@@ -1,0 +1,24 @@
+Job Title: Senior Backend AI Engineer
+
+Company: CloudScale AI Solutions
+Location: Remote (US / India)
+Employment Type: Full-Time
+
+About the Role:
+We are looking for a Senior Backend AI Engineer to build scalable microservices and orchestrate multi-agent LLM pipelines. You will collaborate closely with data scientists and frontend engineers to deploy production-ready APIs handling high throughput.
+
+Key Responsibilities:
+- Design, build, and deploy REST and GraphQL APIs using Python and modern asynchronous frameworks.
+- Orchestrate distributed microservices and asynchronous task workers with Docker and Kubernetes.
+- Implement robust unit, integration, and performance testing using Pytest.
+- Build resilient database schemas and optimized queries using PostgreSQL and Redis caching.
+- Integrate large language model (LLM) APIs and multi-agent reasoning workflows.
+- Monitor production health, implement structured logging, and maintain CI/CD pipelines.
+
+Qualifications & Core Requirements:
+- 4+ years of professional software engineering experience with Python.
+- Proven experience with FastAPI, Django, or Flask.
+- Strong knowledge of relational databases (PostgreSQL/MySQL) and caching (Redis).
+- Hands-on experience with containerization (Docker) and orchestration (Kubernetes).
+- Familiarity with CI/CD automation, Git version control, and cloud platforms (AWS/GCP).
+- Solid understanding of software design patterns, clean code, and security best practices.
